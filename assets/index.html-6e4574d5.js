@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as r}from"./framework-b0a58d14.js";const s={};function c(n,_){return t(),r("div")}const a=e(s,[["render",c],["__file","F:/自媒体/blog/src/.vuepress/.temp/pages/star/index.html.vue"]]);export{a as default};
